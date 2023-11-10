@@ -1,0 +1,11 @@
+riyazsirnotes@gmail.com
+
+Assignment 1: 
+write scenarios for Facebook page (home)
+
+Assignment 2: 
+Complete the remaining test case for Adactin Hotel app Login functionality
+
+Assignment 3:
+write test cases for Facebook login scenarios
+
