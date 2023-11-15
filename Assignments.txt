@@ -9,3 +9,35 @@ Complete the remaining test case for Adactin Hotel app Login functionality
 Assignment 3:
 write test cases for Facebook login scenarios
 
+?????????????????????????????????????
+
+14th November 
+
+Assignment 4:
+
+in a Food Delivery app 
+
+consider 3 inputs like 
+
+Existing customer  10%
+
+New Customer 25%
+
+Coupon 15% 
+
+write a decisssion table and consider right test cases 
+
+ 
+Assignment 5:
+
+Write a State Transition diagram for 
+
+"Registration Functionlity" in Adactin hotel app
+
+and come up with Test cases
+
+-------------------
+
+
+
+
