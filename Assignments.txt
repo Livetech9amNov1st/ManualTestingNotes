@@ -37,7 +37,13 @@ Write a State Transition diagram for
 and come up with Test cases
 
 -------------------
+16th November
 
+Assignment 6:
 
+find atleast 3 defects in Adactin Hotel app
+and update the template 
+
+---------------------------------------
 
 
